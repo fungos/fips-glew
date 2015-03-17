@@ -1,0 +1,9 @@
+# fips-glew
+---
+
+# external dependencies
+exports:
+    header-dirs:
+    modules:
+        GLEW: .
+#       GLEWmx: .
