@@ -4,6 +4,7 @@
 # external dependencies
 exports:
     header-dirs:
+        - glew/include
     modules:
         GLEW: .
 #       GLEWmx: .
